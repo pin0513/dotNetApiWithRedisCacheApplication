@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lVaLlfueWrY5C/RGBpa238HVqeLtOcU/oeQ6Dd+1DN4=",
+  "Source": "dotNetApiWithRedisCacheApplication",
+  "BasePath": "_content/dotNetApiWithRedisCacheApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "syR4AFSNVXGj3GvmhyUW5ZHz326IEk1+Us46Vb2J8WBG8jOudIwJzxF8i5qvBqC8JMLK9zE+d2jGe4QY6EtD2g==",
+  "success": true,
+  "projectFilePath": "/Users/paul/Documents/dev_source/dotNetApiWithRedisCache/dotNetApiWithRedisCacheApplication/dotNetApiWithRedisCacheApplication/dotNetApiWithRedisCacheApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/paul/.nuget/packages/microsoft.aspnet.outputcache.outputcachemoduleasync/1.0.3/microsoft.aspnet.outputcache.outputcachemoduleasync.1.0.3.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0-preview.6.23329.11/microsoft.aspnetcore.openapi.8.0.0-preview.6.23329.11.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0-preview.7.23375.6/microsoft.extensions.caching.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/8.0.0-preview.7.23375.9/microsoft.extensions.caching.stackexchangeredis.8.0.0-preview.7.23375.9.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.7.23375.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-preview.7.23375.6/microsoft.extensions.logging.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.options/8.0.0-preview.7.23375.6/microsoft.extensions.options.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.7.23375.6/microsoft.extensions.primitives.8.0.0-preview.7.23375.6.nupkg.sha512",
+    "/Users/paul/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/paul/.nuget/packages/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "/Users/paul/.nuget/packages/stackexchange.redis/2.6.90/stackexchange.redis.2.6.90.nupkg.sha512",
+    "/Users/paul/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/paul/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.OutputCache.OutputCacheModuleAsync 1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.OutputCache.OutputCacheModuleAsync",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
